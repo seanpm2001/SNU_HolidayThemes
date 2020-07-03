@@ -1,0 +1,51 @@
+<!-- Start of script !-->
+<theme>
+	<themename1="Holiday:NewYearsEve"></themename1>
+	<themename2="Holiday:NewYearsDay"></themename2>
+	<banners>
+		<banner1="<year2> is coming tomorrow"></banner1>
+		<bannerx1="Happy new year! <year2>"></bannerx1>
+	</banners>
+	<yearlist>
+		<!-- SNU mod = SNU years 
+		mod = Modern internet years (1993-today)
+		premod = All dates before 1993 
+		Pre-mod dates will be calculated and not in list form to save time and memory 
+		Later builds will not show lists, but just calculations !-->
+		<yearMod1="1993"></yearMod1>
+		<yearMod2="1994"></yearMod2>
+		<yearMod3="1995"></yearMod3>
+		<yearMod4="1996"></yearMod4>
+		<yearMod5="1997"></yearMod5>
+		<yearMod6="1998"></yearMod6>
+		<yearMod7="1999"></yearMod7>
+		<yearMod8="2000"></yearMod8>
+		<yearMod9="2001"></yearMod9>
+		<yearMod10="2002"></yearMod10>
+		<yearMod11="2003"></yearMod11>
+		<yearMod12="2004"></yearMod12>
+		<yearMod13="2005"></yearMod13>
+		<yearMod14="2006"></yearMod14>
+		<yearMod15="2007"></yearMod15>
+		<yearMod16="2008"></yearMod16>
+		<yearMod17="2009"></yearMod17>
+		<yearMod18="2010"></yearMod18>
+		<yearMod19="2011"></yearMod19>
+		<yearMod20="2012"></yearMod20>
+		<yearMod21="2013"></yearMod21>
+		<yearMod22="2014"></yearMod22>
+		<yearMod23="2015"></yearMod23>
+		<yearMod24="2016"></yearMod24>
+		<yearSNUmod1="2017"></yearSNUmod1>
+		<yearSNUmod2="2018"></yearSNUmod2>
+		<yearSNUmod3="2019"></yearSNUmod3>
+		<yearSNUmod4="2020"></yearSNUmod4>
+	</yearlist>
+</theme>
+<!-- Divider !-->
+<fileInfoSec>
+	<fileVerRecent="Version 1 (November 12th 2019)"><fileVerRecent>
+	<fileVerFirst="Version 1 (November 12th 2019)"><fileVerFirst>
+	<fileType="XML"></fileType>
+</fileInfoSec>
+<!-- End of script !-->

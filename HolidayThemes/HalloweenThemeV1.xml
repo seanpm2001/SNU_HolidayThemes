@@ -1,0 +1,26 @@
+<!-- Start of script !-->
+<theme>
+	<themename1="Holiday:Halloween"></themename1>
+	<banners>
+		<banner1="Happy Halloween"></banner1>
+		<bannerx1="Spooky time"></bannerx1>
+		<bannerx2="Trick or treat"></bannerx2>
+	</banners>
+	<audioSec>
+		<audiodata>No audio data available</audiodata>
+	</audioSec>
+	<imageSec>
+		<i>Images not available</i>
+	</imageSec>
+	<videoSec>
+		<i>Video not available</i>
+	</videoSec>
+	<message1=""></message1>
+</theme>
+<!-- Divider !-->
+<fileInfoSec>
+	<fileVerRecent="Version 1 (November 12th 2019)"><fileVerRecent>
+	<fileVerFirst="Version 1 (November 12th 2019)"><fileVerFirst>
+	<fileType="XML"></fileType>
+</fileInfoSec>
+<!-- End of script !-->

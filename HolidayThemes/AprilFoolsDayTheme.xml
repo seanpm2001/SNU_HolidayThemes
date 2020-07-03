@@ -1,0 +1,25 @@
+<!-- Start of script !-->
+<theme>
+	<themename1="Holiday:April Fools Day"></themename1>
+	<banners>
+		<banner1="April fools"></banner1>
+		<bannerx1="Alright, you know the drill. It is April fools day. <a>Click this link to get rickrolled </a>"></bannerx1>
+	</banners>
+	<audioSec>
+		<audiodata>No audio data available</audiodata>
+	</audioSec>
+	<imageSec>
+		<i>Images not available</i>
+	</imageSec>
+	<videoSec>
+		<i>Video not available</i>
+	</videoSec>
+	<message1=""></message1>
+</theme>
+<!-- Divider !-->
+<fileInfoSec>
+	<fileVerRecent="Version 1 (November 12th 2019)"><fileVerRecent>
+	<fileVerFirst="Version 1 (November 12th 2019)"><fileVerFirst>
+	<fileType="XML"></fileType>
+</fileInfoSec>
+<!-- End of script !-->

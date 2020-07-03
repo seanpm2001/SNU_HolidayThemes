@@ -1,0 +1,26 @@
+<!-- Start of script !-->
+<theme>
+	<themename1="Holiday:MartinLutherKingDay"></themename1>
+	<banners>
+		<banner1="Happy MLK day"></banner1>
+		<bannerx1="I have a dream..."></bannerx1>
+		<bannerx2="Keep your eyes on the prize..."></bannerx2>
+	</banners>
+	<audioSec>
+		<audiodata><a href="I-Have-A-Dream-Speech_MLK.ogg"></a></audiodata>
+	</audioSec>
+	<imageSec>
+		<i>Images not available</i>
+	</imageSec>
+	<videoSec>
+		<i>Image section not available</i>
+	</videoSec>
+	<message1=""></message1>
+</theme>
+<!-- Divider !-->
+<fileInfoSec>
+	<fileVerRecent="Version 1 (November 12th 2019)"><fileVerRecent>
+	<fileVerFirst="Version 1 (November 12th 2019)"><fileVerFirst>
+	<fileType="XML"></fileType>
+</fileInfoSec>
+<!-- End of script !-->

@@ -1,0 +1,16 @@
+<!-- Start of file !-->
+<theme>
+	<themename="VeteransDay"></themename>
+	<Location> 
+		<loc1="UnitedStatesofAmerica"></loc1>
+		<loc2="UnitedKingdom"></loc2>
+		<loc3="Other"></loc3>
+	</Location>
+</theme>
+<!-- Divider !-->
+<fileInfo>
+	<fileVer="1 (November 11th 2019)"></fileVer>
+	<firstVer="1 (November 11th 2019)"></firstVer>
+	<fileType="XML"></fileType>
+</fileInfo>
+<!-- End of file !-->

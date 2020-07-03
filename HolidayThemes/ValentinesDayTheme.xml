@@ -1,0 +1,27 @@
+<!-- Start of script !-->
+<theme>
+	<themename1="Holiday:ValentinesDay"></themename1>
+	<banners>
+		<banner1="Happy Valentines Day"></banner1>
+		<bannerx1="Love"></bannerx1>
+	</banners>
+	<audioSec>
+		<audiodata><a href=""></a></audiodata>
+	</audioSec>
+	<imageSec>
+		<imagedata1><a href="Hearts.png"></a></imagedata1>
+		<imagedata2><a href="Cupid.png"></a></imagedata2>
+		<imagedata3><a href="BoxOfChocolates.png"></a></imagedata3>
+	</imageSec>
+	<videoSec>
+		<i>Video section not available</i>
+	</videoSec>
+	<message1=""></message1>
+</theme>
+<!-- Divider !-->
+<fileInfoSec>
+	<fileVerRecent="Version 1 (November 12th 2019)"><fileVerRecent>
+	<fileVerFirst="Version 1 (November 12th 2019)"><fileVerFirst>
+	<fileType="XML"></fileType>
+</fileInfoSec>
+<!-- End of script !-->

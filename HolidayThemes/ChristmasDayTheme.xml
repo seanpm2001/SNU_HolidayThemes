@@ -1,0 +1,27 @@
+<!-- Start of script !-->
+<theme>
+	<themename1="Holiday:Christmas"></themename1>
+	<banners>
+		<banner1="Merry Christmas!"></banner1>
+		<banner1alt="Happy Holidays!"></banner1alt>
+		<bannerx1="Ho Ho Ho"></bannerx1>
+		<bannerx2=""></bannerx2>
+	</banners>
+	<audioSec>
+		<audiodata>No audio data available</audiodata>
+	</audioSec>
+	<imageSec>
+		<i>Images not available</i>
+	</imageSec>
+	<videoSec>
+		<i>Video not available</i>
+	</videoSec>
+	<message1=""></message1>
+</theme>
+<!-- Divider !-->
+<fileInfoSec>
+	<fileVerRecent="Version 1 (November 12th 2019)"><fileVerRecent>
+	<fileVerFirst="Version 1 (November 12th 2019)"><fileVerFirst>
+	<fileType="XML"></fileType>
+</fileInfoSec>
+<!-- End of script !-->
